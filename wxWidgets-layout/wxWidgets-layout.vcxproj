@@ -129,7 +129,9 @@
   <ItemGroup>
     <ClCompile Include="button-sizer.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="sizer-exam.cpp" />
     <ClCompile Include="spliter.cpp" />
+    <ClCompile Include="splitter-exam.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

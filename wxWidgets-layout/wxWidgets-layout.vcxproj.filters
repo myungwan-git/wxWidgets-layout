@@ -24,5 +24,11 @@
     <ClCompile Include="spliter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="splitter-exam.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sizer-exam.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
